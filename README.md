@@ -49,6 +49,7 @@ rely-takehome/
 ├── space_missions_functions.py  # Required functions for programmatic testing
 ├── dashboard.py                 # Streamlit dashboard application
 ├── requirements.txt             # Python dependencies
+├── test_functions.py            # Test file
 ├── README.md                    # This file
 ```
 
