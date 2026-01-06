@@ -40,5 +40,3 @@ Thumbs.db
 # Streamlit
 .streamlit/
 
-# Test files
-test_functions.py
